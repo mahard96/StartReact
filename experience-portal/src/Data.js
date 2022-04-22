@@ -10,7 +10,7 @@ export default [
             reviewCount: 6
         },
         country: "Switzerland",
-        openSpots: 10,
+        openSpots: 0,
     },
     {
         id: 2,
