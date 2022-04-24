@@ -6,7 +6,7 @@ export default function navBar(){
             <img src={process.env.PUBLIC_URL + '/image/earth-globe.png'} 
             alt="Logo"
             className="nav--logo"/>
-            <h3> my travel journal </h3>
+            <h3 className='nav-header'> my travel journal </h3>
         </nav>
     )
 }

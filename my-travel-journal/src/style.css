@@ -10,15 +10,21 @@
   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   background-color: rgb(255, 136, 93);
   color: white;
+  align-content: center;
+  margin-bottom: 20px;
 }
 
 .nav-logo{
-  max-width: 130%;
+  max-width: 90%;
+}
+
+.nav-header{
+  margin-left: 20px;
+  font-size: 18px;
 }
 
 .card{
-  font-size: 12px;
-  flex: 0 0 auto;         
+  font-size: 12px;        
   display: grid;          
   margin-top: 20px;
   grid-template-columns: 0.3fr 1fr;
@@ -47,3 +53,4 @@
   border-radius: 10px;
   margin-bottom: 5px;
 }
+
